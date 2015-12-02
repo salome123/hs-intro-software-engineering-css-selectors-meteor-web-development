@@ -74,3 +74,4 @@ In order to select the sapphire image in our CSS, we can use what's called a des
 `#sand img` is our CSS selector. This selector will first look for an HTML tag with the ID `sand`, and from there, look for the `img` child HTML element, and apply that styling to the `img`.
 
 Sapphire.  &#10003;
+<a href='https://learn.co/lessons/hs-intro-software-engineering-css-selectors' data-visibility='hidden'>View this lesson on Learn.co</a>
